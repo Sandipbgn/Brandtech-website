@@ -10,7 +10,7 @@ const Card =(props) => {
                         <img src= {props.imgsrc} class="card-img-top" alt="imagess" />
                     <div className="card-body">
                         <h5 className="card-title font-weight-bold"> {props.name}</h5>
-                        <h6 className="card-title font-weight-bold"> {props.name}</h6>
+                        <h6 className="card-title font-weight-bold"> {props.title}</h6>
                     </div>
                     </div>
                         </div>
