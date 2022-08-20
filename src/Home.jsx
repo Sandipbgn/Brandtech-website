@@ -1,7 +1,8 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import web from "../src/images/back.png";
-//hello 
+
+
 const Home =() => {
     return(
         <section id="header" className="d-flex align-items-center">
