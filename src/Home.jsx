@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import web from "../src/images/back.png";
-
+//hello 
 const Home =() => {
     return(
         <section id="header" className="d-flex align-items-center">
@@ -14,7 +14,6 @@ const Home =() => {
                     Start your journey with
                      <strong className="brand-name"> BrandTech</strong>
                 </h1>
-
                 <h22 className="my-3"> 
                 We are the team of tallented developers in Nepal
                 </h22>
